@@ -1,0 +1,40 @@
+# termux-tools
+termux-tools / security/cybersecurity/ethical-hacking/social-engineering
+after complenting installation of Termux then run these all commands its specially for beginners.
+$ pkg update && plg upgrade
+$ pkg install python
+$ pkg install python2
+$ pkg install python3
+$ pkg install fish
+$ pkg install ruby
+$ pkg install git
+$ pkg install php 
+$ pkg install perl
+$ pkg install nmap
+$ pkg install bash
+$ pkg install clang
+$ pkg install nano
+$ pkg install w3m
+$ pkg install hydra
+$ pkg install figlet
+$ pkg install cowsay
+$ pkg install curl
+$ pkg install tar
+$ pkg install zip 
+$ pkg install unzip 
+$ pkg install tor 
+$ pkg install wget
+$ pkg install wcalc 
+$ pkg install bmon
+$ pkg install golang
+$ pkg install openssl
+$ pkg install cmatrix
+$ pkg install openssh
+$ pkg install wireshark
+$ pkg install toilet
+$ pkg install sl
+$ pkg install vim
+$ pkg install tch
+$ pkg install zsh
+$ pkg install fortune
+$ pkg install zsh
