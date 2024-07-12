@@ -38,3 +38,108 @@ $ pkg install tch
 $ pkg install zsh
 $ pkg install fortune
 $ pkg install zsh
+
+
+
+
+
+
+
+
+
+
+
+
+    pkg update && pkg upgrade:
+        pkg update updates the package list to ensure you have the latest package information.
+        pkg upgrade upgrades all installed packages to their latest versions.
+        The && symbol is used to run the second command only if the first command is successful.
+
+Installing Programming Languages
+
+    pkg install python:
+        Installs the Python programming language.
+    pkg install python2:
+        Installs Python 2.x (an older version of Python).
+    pkg install python3:
+        Installs Python 3.x (the latest version of Python).
+    pkg install ruby:
+        Installs the Ruby programming language.
+    pkg install php:
+        Installs the PHP programming language.
+    pkg install perl:
+        Installs the Perl programming language.
+    pkg install golang:
+        Installs the Go programming language.
+
+Installing Shells
+
+    pkg install fish:
+        Installs the Fish shell, an alternative to Bash and Zsh.
+    pkg install bash:
+        Installs the Bash shell, a popular Unix shell.
+    pkg install zsh:
+        Installs the Zsh shell, another popular Unix shell.
+
+Installing Development Tools
+
+    pkg install git:
+        Installs the Git version control system.
+    pkg install clang:
+        Installs the Clang compiler, an alternative to GCC.
+    pkg install openssl:
+        Installs the OpenSSL library, used for secure communication.
+
+Installing Network Tools
+
+    pkg install nmap:
+        Installs Nmap, a network exploration and security auditing tool.
+    pkg install curl:
+        Installs cURL, a command-line tool for transferring data over HTTP.
+    pkg install wget:
+        Installs Wget, a command-line tool for downloading files over HTTP.
+    pkg install tor:
+        Installs Tor, a network of virtual tunnels for anonymous communication.
+    pkg install wireshark:
+        Installs Wireshark, a network protocol analyzer.
+
+Installing System Tools
+
+    pkg install nano:
+        Installs Nano, a lightweight text editor.
+    pkg install w3m:
+        Installs w3m, a text-based web browser.
+    pkg install hydra:
+        Installs Hydra, a password cracking tool.
+    pkg install figlet:
+        Installs Figlet, a tool for generating ASCII art text banners.
+    pkg install cowsay:
+        Installs CowSay, a tool for generating ASCII art cows with messages.
+    pkg install toilet:
+        Installs Toilet, a tool for generating ASCII art text banners.
+    pkg install sl:
+        Installs Sl, a tool for generating a steam locomotive animation.
+    pkg install vim:
+        Installs Vim, a popular text editor.
+    pkg install tch:
+        Installs Tch, a tool for generating ASCII art text banners.
+    pkg install fortune:
+        Installs Fortune, a tool for generating random quotes or messages.
+
+Installing Compression Tools
+
+    pkg install tar:
+        Installs Tar, a tool for archiving and compressing files.
+    pkg install zip:
+        Installs Zip, a tool for compressing files.
+    pkg install unzip:
+        Installs Unzip, a tool for extracting compressed files.
+
+Installing System Utilities
+
+    pkg install bmon:
+        Installs Bmon, a tool for monitoring network bandwidth.
+    pkg install cmatrix:
+        Installs Cmatrix, a tool for generating a scrolling matrix of characters.
+    pkg install openssh:
+        Installs OpenSSH, a secure shell protocol for remote access
