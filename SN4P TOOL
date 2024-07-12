@@ -1,0 +1,29 @@
+Snap is a ba.sh based script for zsh based termux and from this tool you can do many things like backup termux and restoring backups and etc.. this tool works on both rooted and non-rooted devices so you can use it wihtout any issues.
+AVAILABLE ON :
+Termux
+TESTED ON :
+Termux
+REQUIREMENTS :
+internet
+external storage permission
+storage 400 MB
+1gb ram
+FEATURES :
+[+] Backup any core tool 
+[+] Updated maintainence 
+[+] Easy for beginners 
+[+] Perfect tool for termux 
+INSTALLATION [Termux] :
+$ apt-get update 
+$ apt-get upgrade 
+$ pkg install python 
+$ pkg install python2 
+$ pkg install git 
+$ pip install lolcat
+$ git clone https://github.com/noob-hackers/snap
+$ cd $HOME
+$ ls
+$ cd snap
+$ l
+$ bash snap.sh
+Now enjoy from tool...
