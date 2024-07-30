@@ -1,0 +1,11 @@
+Termux is a terminal emulator for Android, and while it's not possible to run the official Instagram app on Termux, there are some third-party tools and scripts that can help you interact with Instagram from the command line.
+
+Here are a few options:
+
+    InstaPy: InstaPy is a Python script that allows you to automate interactions with Instagram, such as liking, commenting, and posting. You can install InstaPy on Termux using pip: pip install instapy
+    Instagram-CLI: Instagram-CLI is a command-line interface for Instagram that allows you to view your feed, like and comment on posts, and more. You can install Instagram-CLI on Termux using npm: npm install instagram-cli
+    InstaTerm: InstaTerm is a Termux-specific tool that allows you to view your Instagram feed, like and comment on posts, and more. You can install InstaTerm on Termux using the following command: pkg install instaterm
+
+Please note that these tools are not officially affiliated with Instagram, and using them may violate Instagram's terms of service. Additionally, these tools may not work as expected, and you may encounter errors or limitations.
+
+Before using any of these tools, make sure to read the documentation and understand the risks involved. It's also important to respect Instagram's terms of service and avoid using these tools for spamming or other malicious activities.
